@@ -1,5 +1,5 @@
-# vUnbox.com
-![Example](https://i.imgur.com/mJ564ND.png)
+# ReactJS Boilerplate
+Simple react base code.
 
 # Installation
 
